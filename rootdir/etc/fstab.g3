@@ -22,4 +22,3 @@
 
 /devices/msm_sdcc.3/mmc_host*                       auto            auto    defaults voldmanaged=sdcard1:auto,noemulatedsd
 /devices/platform/xhci-hcd*                         auto            auto    defaults voldmanaged=usbdisk0:auto,noemulatedsd
-
